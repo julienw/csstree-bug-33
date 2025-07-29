@@ -13,6 +13,5 @@ Result is:
 ```
 /home/julien/travail/git/csstree-bug/index.css
 12:5  error  Parsing error: Identifier is expected
-24:3  error  Parsing error: Identifier is expected
 ```
 
