@@ -1,5 +1,5 @@
 This shows an issue in eslint/csstree (see bug
-https://github.com/eslint/csstree/issues/33).
+https://github.com/eslint/csstree/issues/66).
 
 Run:
 ```
